@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="50" height="50" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="garssground" tilewidth="32" tileheight="32">
+  <image source="grassground.png" width="1024" height="512"/>
+ </tileset>
+ <tileset firstgid="513" name="block" tilewidth="32" tileheight="32">
+  <image source="soilblock.png" width="70" height="70"/>
+ </tileset>
+ <layer name="Layer 1" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJzt2cENgCAQBVFohtrozFJsS40e1AMSssTPMolzFV44ECDHEDLJtX9DhkMrHFrVOJZYznpOLePN6LCeb6sPBw4cOLzvgxaleIYDBw4cOHDcO/bZtVCqTMFh0d+Or9K1Lr3+jwMHDhw4nvU+G890rvVyz4ADB455HF7ecUZ3jBAOrXBo9XaQRhtiFAxf
+  </data>
+ </layer>
+ <layer name="Layer 2" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJztlEEKwCAMBKX4/zf3A0JMYNeIM5Bbs9sByfzGmEy7uRU8eoFHL3Y83Leh0veix2nwiPed4BHvO8HjHlwernw8cj3qfDxyPep8PHI96nw81jnVwYN3VelR5+OR61Hn45HrUefjketR56t71Ox4dHHc+Uc8fOAR7zvBY/2N+lZX+l7yuAE8eoFHL6LbwJyZH3n2DTk=
+  </data>
+ </layer>
+</map>

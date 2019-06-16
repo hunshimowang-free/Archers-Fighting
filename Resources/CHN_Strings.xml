@@ -1,0 +1,8 @@
+﻿<dict>
+  <key>string1</key>
+  <string>欢迎学习Cocos2d-x</string>
+  <key>string2</key>
+  <string>使用XML显示中文</string>
+  <key>str3</key>
+  <string>key与string标签中的内容是对应的</string>
+</dict>
